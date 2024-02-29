@@ -108,16 +108,15 @@ body {
 body {
   background-color: #43a047;
 }
-.container {
+.container-dashboard {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100vh;
   height: 100vh;
 }
 
 .card {
-  width: 100%;
+  width: 900px;
   padding: 5rem 3rem;
   /* margin: 0 3rem; */
   background-color: #f2f2f2;
